@@ -1,4 +1,4 @@
-(function($) {
+function startScroll(){
   "use strict"; // Start of use strict
 
   // Smooth scrolling using jQuery easing
@@ -26,4 +26,4 @@
     offset: 54
   });
 
-})(jQuery); // End of use strict
+};
